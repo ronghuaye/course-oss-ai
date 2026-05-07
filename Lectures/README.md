@@ -1,3 +1,3 @@
 # course-oss-ai\Lectures
 
-# 课件讲义
+本目录主要为课程课件讲义
