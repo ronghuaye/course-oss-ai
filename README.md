@@ -5,3 +5,10 @@
 **课时安排：**  共8次课，每次4课时（每课时40分钟，共160分钟）
 ---
 **课程开发：** 浙江师范大学计算机科学与技术学院，叶荣华教授
+
+---
+**第1组代码仓库：** https://github.com/iconle/kaiyuan_soft
+**第2组代码仓库：** https://github.com/WindZzz1/Computing_Platform_Frontend（前端）； https://github.com/WindZzz1/Computing_Platform_Backend（后端）
+**第3组代码仓库：** https://github.com/KOINING/oss-course-2026
+**第4组代码仓库：** https://github.com/ShaoChenHeng/course_oss
+
