@@ -9,7 +9,9 @@
 ---
 **第1组代码仓库：** https://github.com/iconle/kaiyuan_soft
 
-**第2组代码仓库：** （前端）https://github.com/WindZzz1/Computing_Platform_Frontend； （后端）https://github.com/WindZzz1/Computing_Platform_Backend
+**第2组代码仓库：** 
+（前端）https://github.com/WindZzz1/Computing_Platform_Frontend
+（后端）https://github.com/WindZzz1/Computing_Platform_Backend
 
 **第3组代码仓库：** https://github.com/KOINING/oss-course-2026
 
